@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Bao, a Senior Backend Developer based in Ho Chi Minh City. Welcome to my GitHub profile! Here, you'll find a collection of projects and contributions that reflect my interests and skills. Feel free to explore, and if you have any questions or would like to connect, don't hesitate to reach out.
+
 <!--
 **trangiabao1203/trangiabao1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
